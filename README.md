@@ -1,4 +1,4 @@
-# 🧠 CareBot – AI-Powered Medical Chatbot using LLMs & Pinecone
+# 🧠 CareBot – AI-Powered Medical Chatbot using LLMs & Pinecone (Currently enhancing it!!!)
 
 CareBot is an **AI-driven medical chatbot** that answers healthcare-related queries based on **uploaded medical PDFs**.
 It uses a **Retrieval-Augmented Generation (RAG)** pipeline powered by **LangChain**, **GroQ LLM**, **HuggingFace embeddings**, and **Pinecone** to provide **accurate, context-aware, and reliable** responses.
